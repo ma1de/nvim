@@ -38,7 +38,7 @@ function M.get()
 
 		Underlined = { style = { "underline" } }, -- (preferred) text that stands out, HTML links
 		Bold = { style = { "bold" } },
-		Italic = { style = { "italic" } },
+		Italic = { style = { "Regular" } },
 		-- ("Ignore", below, may be invisible...)
 		-- Ignore = { }, -- (preferred) left blank, hidden  |hl-Ignore|
 
